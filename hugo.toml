@@ -1,0 +1,4 @@
+theme = 'ananke'
+baseURL = 'https://837d.dev'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
